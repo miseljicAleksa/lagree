@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9B9AD693-BFB2-473B-9E23-CF000EBC55E1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lagree/Controllers/PersonalInfoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "PersonalInfoController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - d73a6af99c535cd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.personalName.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - 508d4160712341f9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.personalName.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - 79fdfcc2a9998c8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.personalName.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - 483e10ab5f30f0df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.personalName.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - 3ae91fbc0c3908c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lagree.PersonalInfoController"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "9BF0938A-BE44-4C51-A3DD-FA4EA9EA0A7D - 9465e6f48262ae0d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lagree.PersonalInfoController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lagree.PersonalInfoController&gt;"
+                  moduleName = "Lagree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rigi/Documents/repos/lagree/Lagree/Controllers/PersonalInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "FD89D7DC-161C-4009-9AD4-F886C32C58EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

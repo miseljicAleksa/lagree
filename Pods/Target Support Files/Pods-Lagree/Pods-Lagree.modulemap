@@ -1,0 +1,6 @@
+framework module Pods_Lagree {
+  umbrella header "Pods-Lagree-umbrella.h"
+
+  export *
+  module * { export * }
+}
